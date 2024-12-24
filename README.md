@@ -87,7 +87,7 @@ chmod +x ./PINGPONG && ./PINGPONG --key <KEY>
 
 > Çok çabaladım windows için ama gece ve bayram arifesi olduğu için ve donanımsal bir problem olduğu için mecbur linux anlattım.
 
-> çözersem veya çözersek bu repoda birleştiririz.
+> çözersem veya çözersek bu repoda birleştiririz...
 
 > Bu node'u artık tüm linux sunucularınızda maliyetsiz bir şekilde çalıştırabilirsiniz.
 
